@@ -14,8 +14,7 @@ class GestoreMatrice:
         return True
 
 
-
-
+        
 matrice1=[[1,2,3],[3,3,3],[1,2,3]]  
 matrice=GestoreMatrice([[1,2,3],[3,3,3],[1,2,3],[1,2,5,6]])        
 matrice.stampa_matrice()
