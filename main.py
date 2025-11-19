@@ -15,6 +15,11 @@ class GestoreMatrice:
 
 
 
+matrice1=[[1,2,3],[3,3,3],[1,2,3]]  
+matrice=GestoreMatrice([[1,2,3],[3,3,3],[1,2,3],[1,2,5,6]])        
+matrice.stampa_matrice()
+valid=matrice.valida_matrice()
+print(valid)
 
 
 
